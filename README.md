@@ -70,5 +70,5 @@ Here are some ideas to get you started:
 ### Other
 <p>
   <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
-  <img alt="Sketch" src="https://img.shields.io/badge/sketch%20-%23F7B500.svg?&style=for-the-badge&logo=sketch&logoColor=white"/>
+  <img alt="Sketch" src="https://img.shields.io/badge/sketch%20-%23F7B500.svg?&style=for-the-badge&logo=sketch&logoColor=black"/>
 </p>
