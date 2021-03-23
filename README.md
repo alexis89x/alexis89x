@@ -1,11 +1,3 @@
-## About
-
-Coming soon...
-
-## Projects
-
-Coming soon...
-
 <!--
 **alexis89x/alexis89x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
