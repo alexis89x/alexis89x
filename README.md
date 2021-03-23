@@ -36,12 +36,13 @@ Here are some ideas to get you started:
   <img alt="Bootstrap" src="https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 <p>
-<img alt="SwiftUI" src="https://img.shields.io/badge/swift%20ui-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
 <img alt="VBA for Excel" src="https://img.shields.io/badge/vba%20for%20excel-%23217346.svg?&style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
-
-<!--<img alt="Vue" src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>-->
 <!--<img alt="Ember" src="https://img.shields.io/badge/ember%20-%23E04E39.svg?&style=for-the-badge&logo=ember.js&logoColor=white"/>-->
 </p>
+
+#### Learning in progress...
+<img alt="SwiftUI" src="https://img.shields.io/badge/swift%20ui-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
+<img alt="Vue" src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
 
 ### Backend
 <p float="left">
@@ -62,9 +63,7 @@ Here are some ideas to get you started:
 <img alt="Docker" src="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"/>
 <img alt="Red Hat Open Shift" src="https://img.shields.io/badge/redhat%20openshift%20-%23EE0000.svg?&style=for-the-badge&logo=red-hat-open-shift&logoColor=white"/>
 </p>
-<p float="left">
-<img alt="Elixir" src="https://img.shields.io/badge/elixir%20-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>
-</p>
+<!--<img alt="Elixir" src="https://img.shields.io/badge/elixir%20-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>-->
 
 ### Version Control
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
