@@ -67,5 +67,6 @@ Here are some ideas to get you started:
 </p>
 <!--<img alt="Elixir" src="https://img.shields.io/badge/elixir%20-%234B275F.svg?&style=for-the-badge&logo=elixir&logoColor=white"/>-->
 
-### Version Control
+### Other
 <img alt="Git" src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
+<img alt="Sketch" src="https://img.shields.io/badge/sketch%20-%23F7B500.svg?&style=for-the-badge&logo=sketch&logoColor=white"/>
