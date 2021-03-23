@@ -41,8 +41,10 @@ Here are some ideas to get you started:
 </p>
 
 #### Learning in progress...
-<img alt="SwiftUI" src="https://img.shields.io/badge/swift%20ui-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
-<img alt="Vue" src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
+<p>
+  <img alt="SwiftUI" src="https://img.shields.io/badge/swift%20ui-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
+  <img alt="Vue" src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
+</p>
 
 ### Backend
 <p float="left">
