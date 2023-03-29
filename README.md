@@ -40,11 +40,11 @@ Here are some ideas to get you started:
 <!--<img alt="Ember" src="https://img.shields.io/badge/ember%20-%23E04E39.svg?&style=for-the-badge&logo=ember.js&logoColor=white"/>-->
 </p>
 
-#### Learning in progress...
+<!--#### Learning in progress...
 <p>
   <img alt="SwiftUI" src="https://img.shields.io/badge/swift%20ui-%23FA7343.svg?&style=for-the-badge&logo=swift&logoColor=white"/>
   <img alt="Vue" src="https://img.shields.io/badge/vue.js-%234FC08D.svg?&style=for-the-badge&logo=vue.js&logoColor=white"/>
-</p>
+</p>-->
 
 ### Backend
 <p float="left">
